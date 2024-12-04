@@ -1,5 +1,3 @@
-## Project Title
-
 # password-generator
 
 ## Description
