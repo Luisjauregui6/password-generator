@@ -25,3 +25,6 @@ python passwordgenerator.py
 3. Click "generate".
 4. Review the strength of the generated password.
 5. Copy.
+
+## Screenshots
+![App screenshot](img/pswrdgenss.png)
